@@ -1,0 +1,16 @@
+"C:\Program Files\JetBrains\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\DELL\Desktop\akf_to_git\AKFSF-Simulation-CPP+(535769f)\AKFSF-Simulation-CPP
+CMake Error at CMakeLists.txt:6 (find_package):
+  Could not find a package configuration file provided by "eigen-3.4.0" with
+  any of the following names:
+
+    eigen-3.4.0Config.cmake
+    eigen-3.4.0-config.cmake
+
+  Add the installation prefix of "eigen-3.4.0" to CMAKE_PREFIX_PATH or set
+  "eigen-3.4.0_DIR" to a directory containing one of the above files.  If
+  "eigen-3.4.0" provides a separate development package or SDK, be sure it
+  has been installed.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/DELL/Desktop/akf_to_git/AKFSF-Simulation-CPP+(535769f)/AKFSF-Simulation-CPP/cmake-build-debug/CMakeFiles/CMakeOutput.log".
